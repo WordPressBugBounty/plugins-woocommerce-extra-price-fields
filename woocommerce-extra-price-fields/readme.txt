@@ -1,19 +1,19 @@
-=== Woocommerce Extra Price Fields - Display extra price info on Woocommerce products===
+=== Extra Price Fields for Woocommerce- Display extra price info on Woocommerce products===
 Contributors: aman086,webholics
 Donate link: https://www.paypal.me/webholics
 Requires at least: 3.0.5
 Tags:woocommerce,ecommerce,woocommerce price extension
-Tested up to: 6.4
-Stable tag: 2.0
+Tested up to: 6.8
+Stable tag: 2.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Woocommerce Extra Price Fields is Plugin for adding extra price description to show in front end.
+Extra Price Fields for Woocommerce is Plugin for adding extra price description to show in front end.
 
 == Description ==
-Are you looking for a seamless way to provide your customers with valuable information about your products, right on your WooCommerce website? Look no further! The Woocommerce Extra Price Fields Plugin is here to transform your online store by allowing you to display extra information alongside the product prices.
+Are you looking for a seamless way to provide your customers with valuable information about your products, right on your WooCommerce website? Look no further! The Extra Price Fields for Woocommerce Plugin is here to transform your online store by allowing you to display extra information alongside the product prices.
 
-Woocommerce Extra Price Fields is Plugin for adding extra price description to show in front end.
+Extra Price Fields for Woocommerce is Plugin for adding extra price description to show in front end.
 
 It can  be used to show extra info with price e.g $250 per 100gm
 
@@ -25,7 +25,7 @@ It can  be used to show extra info with price e.g $250 per 100gm
 Tailor the appearance of your extra price information to match your website's style seamlessly. Choose from positions to display extra info to ensure a perfect fit with your brand.
 
 = Easy Integration: =
-Installing and configuring the Woocommerce Extra Price Fields Plugin is a breeze. You don't need to be a tech guru to get it up and running on your WooCommerce-powered online store.
+Installing and configuring the Extra Price Fields for Woocommerce Plugin is a breeze. You don't need to be a tech guru to get it up and running on your WooCommerce-powered online store.
 
 = User-Friendly Interface: =
 Our plugin boasts an intuitive and user-friendly interface that simplifies the process of adding and managing extra price descriptions. No need for complex coding or development skills.
@@ -37,9 +37,9 @@ By providing comprehensive information about your products, you empower your cus
 = Regular Updates and Support: =
 We are committed to delivering a top-notch product. Expect regular updates and reliable customer support to address any queries or issues promptly.
 
-Incorporate the Woocommerce Extra Price Fields Plugin into your WooCommerce store today and take your product presentation to the next level. Watch as your customers appreciate the additional information and engage more confidently with your products.
+Incorporate the Extra Price Fields for Woocommerce Plugin into your WooCommerce store today and take your product presentation to the next level. Watch as your customers appreciate the additional information and engage more confidently with your products.
 
-Enhance your WooCommerce shopping experience with Woocommerce Extra Price Fields - the ultimate tool for showcasing extra product information alongside prices. Try it now and elevate your online store's performance!
+Enhance your WooCommerce shopping experience with Extra Price Fields for Woocommerce - the ultimate tool for showcasing extra product information alongside prices. Try it now and elevate your online store's performance!
 
 
 = <a href="https://webholics.org/downloads/woocommerce-extra-price-fields-pro/">Get Pro version for more features</a> =
@@ -56,7 +56,7 @@ Enhance your WooCommerce shopping experience with Woocommerce Extra Price Fields
 
 == Installation ==
 
-To install Woocommerce Extra Price Fields, follow these steps:
+To install Extra Price Fields for Woocommerce, follow these steps:
 
 1.	Download and unzip the plugin
 2.	Upload the entire woocoomece-extra-price-fields/ directory to the /wp-content/plugins/ directory

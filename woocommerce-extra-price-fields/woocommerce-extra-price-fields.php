@@ -1,13 +1,13 @@
 <?php
 /*
-  Plugin Name: Woocoomerce Extra Price Fields
+  Plugin Name: Extra Price Fields for Woocoomerce
   Description: Add Extra Fields to Price required to show in certain countries/region
   Author: Webholics
   Author URI: https://webholics.org
   Plugin URI: https://webholics.org
-  Version: 2.0
+  Version: 2.0.1
   Requires at least: 3.0.0
-  Tested up to: 5.8
+  Tested up to: 6.8
 
  */
 
